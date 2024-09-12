@@ -1,4 +1,4 @@
-![Short demo](./assets/dogcarousel.gif)
+![Short demo](src/assets/dogcarousel.gif)
 
 # Getting Started with Create React App
 
